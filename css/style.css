@@ -10099,7 +10099,7 @@ address {
 
 .snackbars-right {
     display: inline-block;
-    float: right;
+    /* float: right; */
     text-transform: uppercase;
 }
 
@@ -10787,7 +10787,7 @@ html .btn-cello .badge {
     display: inline-block;
     font-weight: 400;
     font-style: normal;
-    speak: none;
+    /* speak: none; */
     text-transform: none;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -28174,7 +28174,7 @@ p+p {
     border-radius: 0;
     font: 700 14px/14px "Roboto", Helvetica, Arial, sans-serif;
     text-transform: uppercase;
-    vertical-align: middle;
+    /* vertical-align: middle; */
 }
 
 .pagination-custom .page-item .page-link:after {
